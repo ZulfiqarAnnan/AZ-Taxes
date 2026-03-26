@@ -108,17 +108,6 @@ const BookingCalendar = () => {
                     </p>
                   </div>
                 </a>
-                <a href="tel:7034381204" className="flex items-center gap-4 group">
-                  <div className="w-12 h-12 rounded-lg gold-gradient flex items-center justify-center">
-                    <Phone className="w-5 h-5 text-secondary-foreground" />
-                  </div>
-                  <div>
-                    <p className="text-sm text-muted-foreground font-body">Phone</p>
-                    <p className="text-foreground font-body font-medium group-hover:text-accent transition-colors">
-                      (703) 438-1204
-                    </p>
-                  </div>
-                </a>
                 <a
                   href="https://www.linkedin.com/in/annan-zulfiqar-a1934b229"
                   target="_blank"
